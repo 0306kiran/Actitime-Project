@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Admin create customer]]>
+    </line>
+    <line>
+      <![CDATA[Admin create project]]>
+    </line>
+    <line>
+      <![CDATA[Admin create manager]]>
+    </line>
+    <line>
+      <![CDATA[Manager create task]]>
+    </line>
+    <line>
+      <![CDATA[Manager creates TestEngg.]]>
+    </line>
+    <line>
+      <![CDATA[Manger assign task]]>
+    </line>
+    <line>
+      <![CDATA[TestEngg. perform task]]>
+    </line>
+    <line>
+      <![CDATA[Manager complete task]]>
+    </line>
+    <line>
+      <![CDATA[Manager archieve project]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-09T23:02:21 IST" name="Default suite" finished-at="2024-01-09T23:03:02 IST" duration-ms="40940">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T23:02:21 IST" name="Default test" finished-at="2024-01-09T23:03:02 IST" duration-ms="40940">
+      <class name="testPackage.FlowOfActiTime">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.FlowOfActiTime@7ec7ffd3]" started-at="2024-01-09T23:02:21 IST" name="setUp" finished-at="2024-01-09T23:02:25 IST" duration-ms="3806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="endFlowofactitime()[pri:0, instance:testPackage.FlowOfActiTime@7ec7ffd3]" started-at="2024-01-09T23:02:25 IST" name="endFlowofactitime" finished-at="2024-01-09T23:03:02 IST" duration-ms="37045" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Admin create customer]]>
+            </line>
+            <line>
+              <![CDATA[Admin create project]]>
+            </line>
+            <line>
+              <![CDATA[Admin create manager]]>
+            </line>
+            <line>
+              <![CDATA[Manager create task]]>
+            </line>
+            <line>
+              <![CDATA[Manager creates TestEngg.]]>
+            </line>
+            <line>
+              <![CDATA[Manger assign task]]>
+            </line>
+            <line>
+              <![CDATA[TestEngg. perform task]]>
+            </line>
+            <line>
+              <![CDATA[Manager complete task]]>
+            </line>
+            <line>
+              <![CDATA[Manager archieve project]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endFlowofactitime -->
+      </class> <!-- testPackage.FlowOfActiTime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
